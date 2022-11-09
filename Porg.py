@@ -1,1 +1,0 @@
-print("Progress solves problems...")
